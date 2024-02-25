@@ -1,0 +1,57 @@
+C:\Users\dudaa\source\repos\LoginCharpBDFolhaDePag\bin\Debug\LoginCharpBDFolhaDePag.exe.config
+C:\Users\dudaa\source\repos\LoginCharpBDFolhaDePag\bin\Debug\LoginCharpBDFolhaDePag.exe
+C:\Users\dudaa\source\repos\LoginCharpBDFolhaDePag\bin\Debug\LoginCharpBDFolhaDePag.pdb
+C:\Users\dudaa\source\repos\LoginCharpBDFolhaDePag\obj\Debug\LoginCharpBDFolhaDePag.csproj.AssemblyReference.cache
+C:\Users\dudaa\source\repos\LoginCharpBDFolhaDePag\obj\Debug\LoginCharpBDFolhaDePag.FrmLogin.resources
+C:\Users\dudaa\source\repos\LoginCharpBDFolhaDePag\obj\Debug\LoginCharpBDFolhaDePag.Properties.Resources.resources
+C:\Users\dudaa\source\repos\LoginCharpBDFolhaDePag\obj\Debug\LoginCharpBDFolhaDePag.csproj.GenerateResource.cache
+C:\Users\dudaa\source\repos\LoginCharpBDFolhaDePag\obj\Debug\LoginCharpBDFolhaDePag.csproj.CoreCompileInputs.cache
+C:\Users\dudaa\source\repos\LoginCharpBDFolhaDePag\obj\Debug\LoginCharpBDFolhaDePag.exe
+C:\Users\dudaa\source\repos\LoginCharpBDFolhaDePag\obj\Debug\LoginCharpBDFolhaDePag.pdb
+C:\Users\dudaa\source\repos\LoginCharpBDFolhaDePag\obj\Debug\LoginCharpBDFolhaDePag.FrmPrincipal.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto PIM Levar Quinta\Simples\LoginCharpBDFolhaDePag Levar Qinta\bin\Debug\LoginCharpBDFolhaDePag.exe.config
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto PIM Levar Quinta\Simples\LoginCharpBDFolhaDePag Levar Qinta\bin\Debug\LoginCharpBDFolhaDePag.exe
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto PIM Levar Quinta\Simples\LoginCharpBDFolhaDePag Levar Qinta\bin\Debug\LoginCharpBDFolhaDePag.pdb
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto PIM Levar Quinta\Simples\LoginCharpBDFolhaDePag Levar Qinta\obj\Debug\LoginCharpBDFolhaDePag.csproj.AssemblyReference.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto PIM Levar Quinta\Simples\LoginCharpBDFolhaDePag Levar Qinta\obj\Debug\LoginCharpBDFolhaDePag.FrmLogin.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto PIM Levar Quinta\Simples\LoginCharpBDFolhaDePag Levar Qinta\obj\Debug\LoginCharpBDFolhaDePag.FrmPrincipal.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto PIM Levar Quinta\Simples\LoginCharpBDFolhaDePag Levar Qinta\obj\Debug\LoginCharpBDFolhaDePag.Properties.Resources.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto PIM Levar Quinta\Simples\LoginCharpBDFolhaDePag Levar Qinta\obj\Debug\LoginCharpBDFolhaDePag.csproj.GenerateResource.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto PIM Levar Quinta\Simples\LoginCharpBDFolhaDePag Levar Qinta\obj\Debug\LoginCharpBDFolhaDePag.csproj.CoreCompileInputs.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto PIM Levar Quinta\Simples\LoginCharpBDFolhaDePag Levar Qinta\obj\Debug\LoginCharpBDFolhaDePag.exe
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto PIM Levar Quinta\Simples\LoginCharpBDFolhaDePag Levar Qinta\obj\Debug\LoginCharpBDFolhaDePag.pdb
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto Login + Bloco de Notas com códigos e scripts\LoginCharpBDFolhaDePag Levar Qinta\bin\Debug\LoginCharpBDFolhaDePag.exe.config
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto Login + Bloco de Notas com códigos e scripts\LoginCharpBDFolhaDePag Levar Qinta\bin\Debug\LoginCharpBDFolhaDePag.exe
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto Login + Bloco de Notas com códigos e scripts\LoginCharpBDFolhaDePag Levar Qinta\bin\Debug\LoginCharpBDFolhaDePag.pdb
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto Login + Bloco de Notas com códigos e scripts\LoginCharpBDFolhaDePag Levar Qinta\obj\Debug\LoginCharpBDFolhaDePag.csproj.AssemblyReference.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto Login + Bloco de Notas com códigos e scripts\LoginCharpBDFolhaDePag Levar Qinta\obj\Debug\LoginCharpBDFolhaDePag.FrmLogin.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto Login + Bloco de Notas com códigos e scripts\LoginCharpBDFolhaDePag Levar Qinta\obj\Debug\LoginCharpBDFolhaDePag.FrmPrincipal.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto Login + Bloco de Notas com códigos e scripts\LoginCharpBDFolhaDePag Levar Qinta\obj\Debug\LoginCharpBDFolhaDePag.Properties.Resources.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto Login + Bloco de Notas com códigos e scripts\LoginCharpBDFolhaDePag Levar Qinta\obj\Debug\LoginCharpBDFolhaDePag.csproj.GenerateResource.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto Login + Bloco de Notas com códigos e scripts\LoginCharpBDFolhaDePag Levar Qinta\obj\Debug\LoginCharpBDFolhaDePag.csproj.CoreCompileInputs.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto Login + Bloco de Notas com códigos e scripts\LoginCharpBDFolhaDePag Levar Qinta\obj\Debug\LoginCharpBDFolhaDePag.exe
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto Login + Bloco de Notas com códigos e scripts\LoginCharpBDFolhaDePag Levar Qinta\obj\Debug\LoginCharpBDFolhaDePag.pdb
+C:\Users\dudaa\OneDrive\Área de Trabalho\Nova pasta\Projeto Login + Bloco de Notas com códigos e scripts\LoginCharpBDFolhaDePag Levar Qinta\bin\Debug\LoginCharpBDFolhaDePag.exe.config
+C:\Users\dudaa\OneDrive\Área de Trabalho\Nova pasta\Projeto Login + Bloco de Notas com códigos e scripts\LoginCharpBDFolhaDePag Levar Qinta\bin\Debug\LoginCharpBDFolhaDePag.exe
+C:\Users\dudaa\OneDrive\Área de Trabalho\Nova pasta\Projeto Login + Bloco de Notas com códigos e scripts\LoginCharpBDFolhaDePag Levar Qinta\bin\Debug\LoginCharpBDFolhaDePag.pdb
+C:\Users\dudaa\OneDrive\Área de Trabalho\Nova pasta\Projeto Login + Bloco de Notas com códigos e scripts\LoginCharpBDFolhaDePag Levar Qinta\obj\Debug\LoginCharpBDFolhaDePag.csproj.AssemblyReference.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\Nova pasta\Projeto Login + Bloco de Notas com códigos e scripts\LoginCharpBDFolhaDePag Levar Qinta\obj\Debug\LoginCharpBDFolhaDePag.FrmLogin.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Nova pasta\Projeto Login + Bloco de Notas com códigos e scripts\LoginCharpBDFolhaDePag Levar Qinta\obj\Debug\LoginCharpBDFolhaDePag.FrmPrincipal.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Nova pasta\Projeto Login + Bloco de Notas com códigos e scripts\LoginCharpBDFolhaDePag Levar Qinta\obj\Debug\LoginCharpBDFolhaDePag.Properties.Resources.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Nova pasta\Projeto Login + Bloco de Notas com códigos e scripts\LoginCharpBDFolhaDePag Levar Qinta\obj\Debug\LoginCharpBDFolhaDePag.csproj.GenerateResource.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\Nova pasta\Projeto Login + Bloco de Notas com códigos e scripts\LoginCharpBDFolhaDePag Levar Qinta\obj\Debug\LoginCharpBDFolhaDePag.csproj.CoreCompileInputs.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\Nova pasta\Projeto Login + Bloco de Notas com códigos e scripts\LoginCharpBDFolhaDePag Levar Qinta\obj\Debug\LoginCharpBDFolhaDePag.exe
+C:\Users\dudaa\OneDrive\Área de Trabalho\Nova pasta\Projeto Login + Bloco de Notas com códigos e scripts\LoginCharpBDFolhaDePag Levar Qinta\obj\Debug\LoginCharpBDFolhaDePag.pdb
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cebasp\Nova pasta\Projeto Login + Bloco de Notas com códigos e scripts\LoginCharpBDFolhaDePag Levar Qinta\bin\Debug\LoginCharpBDFolhaDePag.exe.config
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cebasp\Nova pasta\Projeto Login + Bloco de Notas com códigos e scripts\LoginCharpBDFolhaDePag Levar Qinta\bin\Debug\LoginCharpBDFolhaDePag.exe
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cebasp\Nova pasta\Projeto Login + Bloco de Notas com códigos e scripts\LoginCharpBDFolhaDePag Levar Qinta\bin\Debug\LoginCharpBDFolhaDePag.pdb
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cebasp\Nova pasta\Projeto Login + Bloco de Notas com códigos e scripts\LoginCharpBDFolhaDePag Levar Qinta\obj\Debug\LoginCharpBDFolhaDePag.csproj.AssemblyReference.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cebasp\Nova pasta\Projeto Login + Bloco de Notas com códigos e scripts\LoginCharpBDFolhaDePag Levar Qinta\obj\Debug\LoginCharpBDFolhaDePag.FrmLogin.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cebasp\Nova pasta\Projeto Login + Bloco de Notas com códigos e scripts\LoginCharpBDFolhaDePag Levar Qinta\obj\Debug\LoginCharpBDFolhaDePag.FrmPrincipal.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cebasp\Nova pasta\Projeto Login + Bloco de Notas com códigos e scripts\LoginCharpBDFolhaDePag Levar Qinta\obj\Debug\LoginCharpBDFolhaDePag.Properties.Resources.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cebasp\Nova pasta\Projeto Login + Bloco de Notas com códigos e scripts\LoginCharpBDFolhaDePag Levar Qinta\obj\Debug\LoginCharpBDFolhaDePag.csproj.GenerateResource.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cebasp\Nova pasta\Projeto Login + Bloco de Notas com códigos e scripts\LoginCharpBDFolhaDePag Levar Qinta\obj\Debug\LoginCharpBDFolhaDePag.csproj.CoreCompileInputs.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cebasp\Nova pasta\Projeto Login + Bloco de Notas com códigos e scripts\LoginCharpBDFolhaDePag Levar Qinta\obj\Debug\LoginCharpBDFolhaDePag.exe
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cebasp\Nova pasta\Projeto Login + Bloco de Notas com códigos e scripts\LoginCharpBDFolhaDePag Levar Qinta\obj\Debug\LoginCharpBDFolhaDePag.pdb
+C:\Users\dudaa\OneDrive\Área de Trabalho\Git\Projeto Login + Bloco de Notas com códigos e scripts\LoginCharpBDFolhaDePag Levar Qinta\obj\Debug\LoginCharpBDFolhaDePag.csproj.AssemblyReference.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto Login + Bloco de Notas com códigos e scripts\LoginCharpBDFolhaDePag Levar Qinta\obj\Debug\LoginCharpBDFolhaDePag.Resources.FrmSeuPrograma.resources

@@ -1,0 +1,12 @@
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto Login\Projeto Login\bin\Debug\LoginCharpBDFolhaDePag.exe.config
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto Login\Projeto Login\bin\Debug\LoginCharpBDFolhaDePag.exe
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto Login\Projeto Login\bin\Debug\LoginCharpBDFolhaDePag.pdb
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto Login\Projeto Login\obj\Debug\ModuloLogin.csproj.AssemblyReference.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto Login\Projeto Login\obj\Debug\LoginCharpBDFolhaDePag.FrmLogin.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto Login\Projeto Login\obj\Debug\LoginCharpBDFolhaDePag.FrmPrincipal.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto Login\Projeto Login\obj\Debug\LoginCharpBDFolhaDePag.Properties.Resources.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto Login\Projeto Login\obj\Debug\LoginCharpBDFolhaDePag.Resources.FrmSeuPrograma.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto Login\Projeto Login\obj\Debug\ModuloLogin.csproj.GenerateResource.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto Login\Projeto Login\obj\Debug\ModuloLogin.csproj.CoreCompileInputs.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto Login\Projeto Login\obj\Debug\LoginCharpBDFolhaDePag.exe
+C:\Users\dudaa\OneDrive\Área de Trabalho\Projeto Login\Projeto Login\obj\Debug\LoginCharpBDFolhaDePag.pdb
