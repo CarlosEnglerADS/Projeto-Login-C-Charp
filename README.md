@@ -10,7 +10,7 @@
 
 
 
-[10:19, 05/10/2023]
+Comando para criação do Banco de Dados 
 --create database LoginCharp
 --use LoginCharp
 
@@ -24,4 +24,4 @@ CREATE TABLE [dbo].[Usuario] (
 
 
 No Sql Server crie o primeiro user com Insert
-nao esqueçade trocar todas as conexções para sua string de conexão
+nao esqueça de trocar todas as conexções para sua string de conexão.
